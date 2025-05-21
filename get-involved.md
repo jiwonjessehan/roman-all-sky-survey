@@ -5,6 +5,6 @@ title: Get Involved
 
 # Get Involved
 
-We welcome community participation in the Roman all-sky survey!
+The Roman All-Sky Survey is a community-driven effort, and we welcome participation from all backgrounds and career stages.
 
-👉 [Fill out this form](#) to sign up.
+[Fill out this form](https://forms.gle/R3Zt44aXS9FKaMVRA) to sign up.
