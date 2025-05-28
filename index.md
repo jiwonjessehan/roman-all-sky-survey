@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Roman All-Sky Survey
+layout: home
+title: Welcome
 ---
 
 Welcome to the community hub for the Roman all-sky survey!
