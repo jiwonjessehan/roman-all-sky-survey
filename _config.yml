@@ -1,6 +1,7 @@
 title: Roman All-Sky Survey
 description: Community engagement site for the Roman all-sky survey
 theme: minima
+show_excerpts: false
 markdown: kramdown
 plugins:
   - jekyll-feed
