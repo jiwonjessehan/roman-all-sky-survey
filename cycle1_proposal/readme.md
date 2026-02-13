@@ -8,4 +8,4 @@ all links are view-only; contact Jesse Han for editable link.
 - **Overleaf Link**: in the works.
 
 ## White Paper
-- **Overleaf Link**: in the works.
+- **Overleaf Link**: https://www.overleaf.com/read/vkzkyrxrtczv#0c792e
